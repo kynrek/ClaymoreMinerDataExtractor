@@ -304,8 +304,14 @@ try:
 
 		if retcode is not None:
 			break
+
 except:	
-	p.terminate() 
+	p.terminate()
+	
+#make sure to terminate the process and write close the json array in the output file		
+finally:
+	summaryJSONFile.write(']\n')
+	summaryJSONFile.flush()
 	summaryLogFile.write('Process Claymore Data Script Ended {}\n'.format(datetime.now().strftime("%m/%d/%Y %H-%M-%S")))
 	summaryLogFile.flush()
-	
+
