@@ -16,8 +16,11 @@ example usage:
 
 Usage:
 optional arguments:
+
   -h, --help            show this help message and exit
+  
   -o OUTPUTLOCATION, --outputlocation OUTPUTLOCATION
                         directory where logs and report files will be saved
+						
   -s SETTINGSFILE, --settingsfile SETTINGSFILE
                         location of a .json settings file for the miner
