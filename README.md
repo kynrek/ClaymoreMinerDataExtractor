@@ -12,7 +12,7 @@ you may want to change other settings for gpu fan and temperature settings
 ## Usage
 example usage:
 
-```python claymoreminerdataextractor.py --outputlocation C:\Claymore.s.dual.ethereum.v15.0.-.widows\logs -s C:\Claymore.s.dual.ethereum.v15.0.-.widows\miner_settings.json```
+```python claymoreminerdataextractor.py -o C:\Claymore.s.dual.ethereum.v15.0.-.widows\logs -s C:\Claymore.s.dual.ethereum.v15.0.-.widows\miner_settings.json```
 
 Usage:
 optional arguments:
