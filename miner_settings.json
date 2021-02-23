@@ -1,0 +1,18 @@
+{
+	 "executable" : "C:\\Claymore.s.dual.ethereum.v15.0.-.widows\\EthDcrMiner64.exe",
+	 "epool" : "us-east.ethash-hub.miningpoolhub.com:20535",
+	 "ewal" : "YourUserName.YourWorkerName:x", 
+	 "fanmin" : "75",
+	 "fanmax": "100",
+	 "epsw" : "x", 
+	 "mode" : "1", 
+	 "dbg" : "-1", 
+	 "mport" : "0",
+	 "etha" : "0",
+	 "ftime" : "55", 
+	 "retrydelay" : "1",
+	 "tt" : "79", 
+	 "ttli" : "77", 
+	 "tstop" : "89",
+	 "esm" : "2"
+}
