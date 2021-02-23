@@ -9,8 +9,9 @@ Before using the script you must change the folowing values in your ```miner_set
 ```ewal``` should be to your username and worker name with 'x' as the password to get credit for mining
 you may want to change other settings for gpu fan and temperature settings
 
-##Usage
+## Usage
 example usage:
+
 ```python claymoreminerdataextractor.py --outputlocation C:\Claymore.s.dual.ethereum.v15.0.-.widows\logs -s C:\Claymore.s.dual.ethereum.v15.0.-.widows\miner_settings.json```
 
 Usage:
